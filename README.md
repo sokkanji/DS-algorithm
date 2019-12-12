@@ -16,7 +16,7 @@
 
 [7. 병합 정렬(Merge Sort)](Sort/MergeSort.c)
 
-[8. 기수 정렬(Radix Sort)](Sort/RadixSortt.c)
+[8. 기수 정렬(Radix Sort)](Sort/RadixSort.c)
 
 
 
