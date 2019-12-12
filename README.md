@@ -2,21 +2,21 @@
 ## 2학년 자료구조 정렬 및 검색 정리
 
 ### <정렬 알고리즘>
-[1. 선택 정렬(Selection Sort)](Data-structure/Sort/)
+[1. 선택 정렬(Selection Sort)](Sort/SelectionSort.c)
 
-[2. 삽입 정렬(Insertion Sort)](Data-structure/Sort/InsertionSort.c)
+[2. 삽입 정렬(Insertion Sort)](Sort/InsertionSort.c)
 
-[3. 버블 정렬(Bubble Sort)](Data-structure/Sort/BubbleSort.c)
+[3. 버블 정렬(Bubble Sort)](Sort/BubbleSort.c)
 
-[4. 쉘 정렬(Shell Sort)](Data-structure/Sort/ShellSort.c)
+[4. 쉘 정렬(Shell Sort)](Sort/ShellSort.c)
 
-[5. 퀵 정렬(Quick Sort)](Data-structure/Sort/QuickSort.c)
+[5. 퀵 정렬(Quick Sort)](Sort/QuickSort.c)
 
-[6. 힙 정렬(Heap Sort)](Data-structure/Sort/HeapSort.c)
+[6. 힙 정렬(Heap Sort)](Sort/HeapSort.c)
 
-[7. 병합 정렬(Merge Sort)](Data-structure/Sort/MergeSort.c)
+[7. 병합 정렬(Merge Sort)](Sort/MergeSort.c)
 
-[8. 기수 정렬(Radix Sort)](Data-structure/Sort/RadixSortt.c)
+[8. 기수 정렬(Radix Sort)](Sort/RadixSortt.c)
 
 
 
