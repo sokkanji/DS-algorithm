@@ -3,7 +3,9 @@
 
 ### <정렬 알고리즘>
 [1. 선택 정렬(Selection Sort)](Data-structure/Sort/BubbleSort.c)
+
 [2. 삽입 정렬(Insertion Sort)](Data-structure/Sort/InsertionSort.c)
+
 [3. 버블 정렬(Bubble Sort)](Data-structure/Sort/BubbleSort.c)
 [4. 쉘 정렬(Shell Sort)](Data-structure/Sort/ShellSort.c)
 [5. 퀵 정렬(Quick Sort)](Data-structure/Sort/QuickSort.c)
