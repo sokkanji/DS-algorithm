@@ -2,7 +2,7 @@
 ## 2학년 자료구조 정렬 및 검색 정리
 
 ### <정렬 알고리즘>
-[1. 선택 정렬(Selection Sort)](Data-structure/Sort)
+[1. 선택 정렬(Selection Sort)](Data-structure/Sort/)
 
 [2. 삽입 정렬(Insertion Sort)](Data-structure/Sort/InsertionSort.c)
 
