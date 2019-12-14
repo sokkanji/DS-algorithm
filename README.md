@@ -22,9 +22,8 @@
 ### <검색 알고리즘>
 1. 순차 검색(Sequential Search)
 2. 이분 검색(Binary Search)
-3. 이진 트리 검색(Binary Search)
-4. 보간 검색(Interpolation Search)
-5. 피보나치 검색(Fibonacci Search)
+3. 보간 검색(Interpolation Search)
+4. 피보나치 검색(Fibonacci Search)
 
 
 
