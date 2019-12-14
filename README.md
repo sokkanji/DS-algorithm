@@ -35,7 +35,7 @@
 
 
 ### <수학적 알고리즘>
-1. 중복 순열 (RePeated Permutation)
-2. 순열 (Permutation)
-3. 조합(Combination)
-4. 중복 조합 (ReCombination)
+[1. 중복 순열 (RePeated Permutation)](Math/RePermutation.c)
+[2. 순열 (Permutation)](Math/Permutation.c)
+[3. 조합(Combination)](Math/Combination.c)
+[4. 중복 조합 (ReCombination)](Math/ReCombination.c)
