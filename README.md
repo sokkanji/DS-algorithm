@@ -35,7 +35,7 @@
 
 
 ### <수학적 알고리즘>
-1. 중복 순열
-2. 순열
-3. 조합
-4. 중복 조합
+1. 중복 순열 (RePeated Permutation)
+2. 순열 (Permutation)
+3. 조합(Combination)
+4. 중복 조합 (ReCombination)
