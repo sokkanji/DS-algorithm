@@ -20,17 +20,16 @@
 
 
 ### <검색 알고리즘>
-1. 순차 검색(Sequential Search)
-2. 이분 검색(Binary Search)
-3. 보간 검색(Interpolation Search)
-4. 피보나치 검색(Fibonacci Search)
+[1. 이분 검색(Binary Search)](Search/BinarySearch.c)
+[2. 보간 검색(Interpolation Search)](Search/InterSearch.c)
+[3. 피보나치 검색(Fibonacci Search)](Search/fiboSearch.c)
 
 
 
 ### <다양한 알고리즘>
-1. 깊이우선탐색(DFS, Depth First Search)
-2. 너비우선탐색(BFS, Breadth First Search)
-3. 다익스트라(Dijkstra) 최단 경로
+[1. 깊이우선탐색(DFS, Depth First Search)](Sort2/DepthFirstSearch.c)
+[2. 너비우선탐색(BFS, Breadth First Search)](Sort2/BreadthFirstSearch.c)
+[3. 다익스트라(Dijkstra) 최단 경로](Sort2/Dijkstra.c)
 
 
 
