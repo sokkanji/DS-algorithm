@@ -1,6 +1,6 @@
 # Data-structure (2학년 자료구조 정렬 및 검색 정리)
 
-### <정렬 알고리즘>
+## <정렬 알고리즘>
 [1. 선택 정렬(Selection Sort)](Sort/SelectionSort.c)
 
 [2. 삽입 정렬(Insertion Sort)](Sort/InsertionSort.c)
@@ -19,7 +19,7 @@
 
 
 
-### <검색 알고리즘>
+## <검색 알고리즘>
 [1. 이분 검색(Binary Search)](Search/BinarySearch.c)
 
 [2. 보간 검색(Interpolation Search)](Search/InterSearch.c)
@@ -28,7 +28,7 @@
 
 
 
-### <다양한 알고리즘>
+## <다양한 알고리즘>
 [1. 깊이우선탐색(DFS, Depth First Search)](Sort2/DepthFirstSearch.c)
 
 [2. 너비우선탐색(BFS, Breadth First Search)](Sort2/BreadthFirstSearch.c)
@@ -37,7 +37,7 @@
 
 
 
-### <수학적 알고리즘>
+## <수학적 알고리즘>
 [1. 중복 순열 (RePeated Permutation)](Math/RePermutation.c)
 
 [2. 순열 (Permutation)](Math/Permutation.c)
