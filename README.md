@@ -1,6 +1,5 @@
 # Data-structure (2학년 자료구조 코드 정리)
 
-
 ## 정렬 알고리즘
 [1. 선택 정렬(Selection Sort)](Sort/SelectionSort.c)
 
@@ -18,8 +17,6 @@
 
 [8. 기수 정렬(Radix Sort)](Sort/RadixSort.c)
 
-
-
 ## 검색 알고리즘
 [1. 이분 검색(Binary Search)](Search/BinarySearch.c)
 
@@ -27,16 +24,12 @@
 
 [3. 피보나치 검색(Fibonacci Search)](Search/fiboSearch.c)
 
-
-
 ## 다양한 알고리즘
 [1. 깊이우선탐색(DFS, Depth First Search)](Sort2/DepthFirstSearch.c)
 
 [2. 너비우선탐색(BFS, Breadth First Search)](Sort2/BreadthFirstSearch.c)
 
 [3. 다익스트라(Dijkstra) 최단 경로](Sort2/Dijkstra.c)
-
-
 
 ## 수학적 알고리즘
 [1. 중복 순열 (RePeated Permutation)](Math/RePermutation.c)
