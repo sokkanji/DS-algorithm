@@ -22,7 +22,7 @@
 
 [2. 보간 검색(Interpolation Search)](Search/InterSearch.c)
 
-[3. 피보나치 검색(Fibonacci Search)](Search/fiboSearch.c)
+[3. 피보나치 검색(Fibonacci Search)](Search/fiboSerach.c)
 
 ## 다양한 알고리즘
 [1. 깊이우선탐색(DFS, Depth First Search)](Sort2/DepthFirstSearch.c)
