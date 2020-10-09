@@ -1,4 +1,4 @@
-# Data-Structure (2학년 자료구조 코드 정리)
+# DS-algorithm
 
 ## 정렬 알고리즘
 [1. 선택 정렬(Selection Sort)](Sort/SelectionSort.c)
