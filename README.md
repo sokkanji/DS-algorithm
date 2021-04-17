@@ -1,4 +1,4 @@
-# DS-algorithm
+# data-structure-algorithm
 
 ## 정렬 알고리즘
 [1. 선택 정렬(Selection Sort)](Sort/SelectionSort.c)
